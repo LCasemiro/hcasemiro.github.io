@@ -1,0 +1,39 @@
+h4 {
+    font-family: Poppins, sans-serif;
+    font-size: 2.8em;
+    color: #262626;
+    margin-bottom: 0.1rem;
+    font-weight: 700;
+}
+
+p {
+    font-family: Poppins, monospace;
+    font-size: 1.em;
+    letter-spacing: 0.02em;
+    color: #262626;
+}
+body {
+    background-color: #fff;
+}
+
+a{
+    color: #2980b9;
+    text-decoration: none;
+    transition: color .5s;
+
+}
+
+a:hover {
+  color: #3498db;
+}
+
+#logo {
+    width: 8.0rem;
+    margin-bottom: 2.0rem;
+    
+}
+
+.topBar {
+    background-color: #262626;
+    height: 0.3rem;
+}
